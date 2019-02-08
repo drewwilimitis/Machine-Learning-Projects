@@ -6,6 +6,8 @@ Projects based on exercises from the textbook "Hands on Machine Learning with Sc
 
 Experimenting with various support vector classification hyperparameters on several different toy datasets, and visualizing classification decision regions with the mlxtend library
 
+![spiral_boundary](https://user-images.githubusercontent.com/16658498/52453889-f7e49500-2b0e-11e9-8b61-32b27dcb7f3d.png)
+
 ## Decision trees
 
 An implementation of a random forest from building up individual decision trees
