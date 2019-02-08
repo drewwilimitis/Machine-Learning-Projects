@@ -16,6 +16,8 @@ An implementation of a random forest from building up individual decision trees
 
 Illustrating the steps of Principal Component Analysis and other dimensionality reduction approaches using the scikit-learn package for manifold learning. Visualizing some manifold learning algorithms like t-SNE, Isomap, and MDS applied to the MNIST dataset
 
+![image](https://user-images.githubusercontent.com/16658498/52454035-9cff6d80-2b0f-11e9-9fee-1085b1deb976.png)
+
 ## Kernel Trick
 
 Attempting to explain and illustrate kernel methods in non-linear support vector machines
