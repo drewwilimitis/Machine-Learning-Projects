@@ -28,6 +28,8 @@ Illustrating the steps of Principal Component Analysis and other dimensionality 
 
 Attempting to explain and illustrate kernel methods in non-linear support vector machines
 
+![image](https://user-images.githubusercontent.com/16658498/52454385-35e2b880-2b11-11e9-97a6-15d245cc6b57.png)
+
 
 ## Ensemble methods/Random Forest
 
@@ -39,3 +41,6 @@ Applying some ensemble methods like voting classifiers, bagging/pasting, AdaBoos
 ## Spectral clustering/embedding
 
 Some background on laplacian eigenmaps and spectral clustering/embedding
+
+
+![image](https://user-images.githubusercontent.com/16658498/52454520-a7bb0200-2b11-11e9-83ed-b7de5ab4310e.png)
