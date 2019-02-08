@@ -2,6 +2,9 @@
 
 Projects based on exercises from the textbook "Hands on Machine Learning with Scikit-Learn and Tensorflow" 
 
+![image](https://user-images.githubusercontent.com/16658498/52454343-0b90fb00-2b11-11e9-9665-23bb8c959487.png)
+
+
 ## Plotting decision regions
 
 Experimenting with various support vector classification hyperparameters on several different toy datasets, and visualizing classification decision regions with the mlxtend library
